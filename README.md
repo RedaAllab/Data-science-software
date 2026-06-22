@@ -25,6 +25,6 @@ Binary classification project predicting loan default on 32,581 observations. Co
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost
 ```
 
-Place `credit_risk_dataset.csv` in the same directory as the notebook and run `credit_risk_modeling.ipynb` top to bottom.
+Place `credit_risk_dataset.csv` in the same directory as the notebook and run `credit_risk_modeling_en.ipynb` top to bottom.
 
 The dataset is the [Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset) from Kaggle.
